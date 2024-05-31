@@ -1,1 +1,3 @@
 # SumMatch
+
+Simple app
